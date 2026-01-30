@@ -1,0 +1,2 @@
+Transform the following MapReduce pipeline into Spark Scala using the provided semantic model.
+{semantic_model}
